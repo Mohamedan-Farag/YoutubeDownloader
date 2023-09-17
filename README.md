@@ -33,5 +33,5 @@ pip install requests
 
 3. At last, push in the command:
 ```sh
-python main.py
+python Download_yt.py
 ```
